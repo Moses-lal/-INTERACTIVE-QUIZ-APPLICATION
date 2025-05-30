@@ -1,0 +1,15 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+.option:hover {
+    background-color: #bfdbfe; /* Light blue hover */
+    cursor: pointer;
+}
+.correct {
+    background-color: #86efac; /* Green for correct */
+    border-color: #16a34a;
+}
+.incorrect {
+    background-color: #fecaca; /* Red for incorrect */
+    border-color: #dc2626;
+}
